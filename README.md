@@ -1,7 +1,7 @@
 # Hi, I’m @GokhanFIRATLI 👋
 - 👀 I’m interested in learning coding.
 - 🌱 I’m currently learning C#
-- 📫 How to reach me:
+## Connect with me 📫
     - gokhanfiratli@hotmail.com
     - https://www.linkedin.com/in/gokhanfiratli/
 
