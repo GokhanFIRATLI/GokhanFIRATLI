@@ -1,6 +1,8 @@
 # Hi, I’m @GokhanFIRATLI 👋
+- 🦺 I'm a civil engineer.
 - 👀 I’m interested in learning coding.
 - 🌱 I’m currently learning C#
+
 ## Connect with me 📫
     - gokhanfiratli@hotmail.com
     - https://www.linkedin.com/in/gokhanfiratli/
