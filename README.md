@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GokhanFIRATLI
+# Hi, I’m @GokhanFIRATLI 👋
 - 👀 I’m interested in learning coding.
 - 🌱 I’m currently learning C#
 - 📫 How to reach me:
