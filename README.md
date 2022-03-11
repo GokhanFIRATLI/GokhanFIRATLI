@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning C#
 
 ## Connect with me 📫
-[<img align="left" alt="Visual Studio Code" width="60px" src="https://user-images.githubusercontent.com/99813736/157823087-16c8ad5f-652a-4e0b-a76e-42504a8a9ebc.svg" style="padding-right:10px;" />][mail]
-[<img align="left" alt="Visual Studio Code" width="60px" src="https://user-images.githubusercontent.com/99813736/157822913-9893d6ec-c310-4733-bbca-af62799f90d8.svg" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="Visual Studio Code" width="50px" src="https://user-images.githubusercontent.com/99813736/157823087-16c8ad5f-652a-4e0b-a76e-42504a8a9ebc.svg" style="padding-right:10px;" />][mail]
+[<img align="left" alt="Visual Studio Code" width="50px" src="https://user-images.githubusercontent.com/99813736/157822913-9893d6ec-c310-4733-bbca-af62799f90d8.svg" style="padding-right:10px;" />][linkedin]
 
 <br />
 <br />
